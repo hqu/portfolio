@@ -78,7 +78,7 @@ const Index = () => {
         </Section>
 
         {/* Teaching */}
-        <Section title="Teacher" id="teaching">
+        <Section title="Teacher at Harvard" id="teaching">
           <ul className="space-y-2 text-lg text-foreground/90">
             <li className="flex items-start gap-2">
               <span className="text-primary mt-1.5">•</span>
