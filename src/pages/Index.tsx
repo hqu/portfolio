@@ -68,6 +68,7 @@ const Index = () => {
             </ExtLink>
             , Brooklyn.
           </p>
+          <iframe title="Cambridge 311 snow removal issues" aria-label="Locator map" id="datawrapper-chart-t4pjb" src="https://datawrapper.dwcdn.net/t4pjb/2/" scrolling="no" frameborder="0" style="border: none;" width="1070" height="873" data-external="1"></iframe>
           <p className="text-lg leading-relaxed text-foreground/90">
             Learn more about the{" "}
             <ExtLink href="https://courses.my.harvard.edu/psp/courses/EMPLOYEE/EMPL/h/?tab=HU_CLASS_SEARCH&SearchReqJSON=%7B%22ExcludeBracketed%22:true,%22SaveRecent%22:true,%22Facets%22:%5B%5D,%22PageNumber%22:1,%22SortOrder%22:%5B%22SCORE%22%5D,%22TopN%22:%22%22,%22PageSize%22:%22%22,%22SearchText%22:%22(IS_SCL_DESCR_IS_SCL_DESCRL:%5C%22Hong%20Qu%5C%22)%22%7D">
@@ -215,7 +216,6 @@ const Index = () => {
               </ExtLink>
             </article>
           </div>
-<iframe title="Cambridge 311 snow removal issues" aria-label="Locator map" id="datawrapper-chart-t4pjb" src="https://datawrapper.dwcdn.net/t4pjb/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="873" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>          
         </Section>
       </main>
 
