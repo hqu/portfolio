@@ -94,6 +94,18 @@ const Index = () => {
               </span>
             </li>
           </ul>
+          <div className="mt-8">
+            <iframe
+              title="Cambridge 311 snow removal issues"
+              aria-label="Locator map"
+              id="datawrapper-chart-t4pjb"
+              src="https://datawrapper.dwcdn.net/t4pjb/2/"
+              scrolling="no"
+              frameBorder="0"
+              style={{ border: "none", width: "100%", maxWidth: 1070, height: 873 }}
+              data-external="1"
+            />
+          </div>
         </Section>
 
         {/* Student */}
